@@ -12,3 +12,6 @@ https://github.com/xb8/t119bruteforcer
 
 ## Intercom keys
 https://github.com/wetox-team/flipperzero-goodies/tree/master/intercom-keys
+
+## IR
+https://github.com/Lucaslhm/Flipper-IRDB
